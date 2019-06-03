@@ -1,0 +1,8 @@
+awk.txt
+Created Mon Jun  3 10:19:37 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+awk - pattern scanning and processing language
+  (from gawk definition)
+
